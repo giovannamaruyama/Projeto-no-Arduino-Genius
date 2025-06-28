@@ -1,10 +1,10 @@
 # Projeto-no-Arduino-Genius
 Projeto realizado para a disciplina SSC0180 – Eletrônica para Computação', acompanhado pelo professor Eduardo do Valle Simões. Com o objetivo de projetar um jogo Genius com o uso do arduino
 
-#INTEGRANTES:
+# INTEGRANTES:
 Barbara Naomi Morimoto Hatano - 13678755, Eric Costa Lopes - 17070779, Giovanna Maruyama - 16869489 e Giovanni Torres Bullo- 16869833
 
-#LISTA DE COMPONENTES
+# LISTA DE COMPONENTES
 | Componente      |     Especificação       | Preço
 | -------------   |:-------------:          | -----:|
 |PROTOBOARD        |BB-01 400P            | 1 x 21,70 |
