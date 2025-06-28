@@ -13,4 +13,4 @@ Integrantes Barbara Naomi Morimoto Hatano - 13678755, Eric Costa Lopes - 1707077
 | RESISTOR CR25  | 220R               | 10 x 0,07 |
 | BUZZER| 12A, 7V          |  1 X 9,70 |
 | CHAVE TÁTIL  |  6x6x4,3MM          |  4 x 1,00|
-| TOTAL  |             |   38,10 |
+| TOTAL  |             |  R$38,10 |
