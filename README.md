@@ -24,3 +24,6 @@ Barbara Naomi Morimoto Hatano - 13678755, Eric Costa Lopes - 17070779, Giovanna 
 ![WhatsApp Image 2025-06-29 at 19 34 49](https://github.com/user-attachments/assets/d14711d1-d6c1-48e3-8216-cc3e16e650f0)
 
 ## VÍDEO DO PROJETO SENDO TESTADO
+
+[![Assista ao vídeo](https://img.youtube.com/vi/ev16qJaGS78/hqdefault.jpg)](https://youtu.be/ev16qJaGS78?si=JFm5MdgQAvQKNtvt)
+
