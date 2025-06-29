@@ -17,6 +17,8 @@ Barbara Naomi Morimoto Hatano - 13678755, Eric Costa Lopes - 17070779, Giovanna 
 | TOTAL  |             |  R$38,10 |
 
 ## PROJETO ESQUEMÁTICO (TINKERCAD)
+![Captura de tela 2025-06-29 201149](https://github.com/user-attachments/assets/0216b870-fd64-4467-83c1-e06dbca86b71)
+
 
 ## FOTOS DO PROJETO
 ![WhatsApp Image 2025-06-29 at 19 34 48](https://github.com/user-attachments/assets/59bff0d4-f233-4247-b871-f6add95725ee)
