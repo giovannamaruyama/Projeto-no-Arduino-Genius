@@ -19,5 +19,8 @@ Barbara Naomi Morimoto Hatano - 13678755, Eric Costa Lopes - 17070779, Giovanna 
 ## PROJETO ESQUEMÁTICO (TINKERCAD)
 
 ## FOTOS DO PROJETO
+![WhatsApp Image 2025-06-29 at 19 29 16](https://github.com/user-attachments/assets/be909b0b-e65d-4740-85cd-08e800e137c2)
+![WhatsApp Image 2025-06-29 at 19 29 15](https://github.com/user-attachments/assets/ae887dd4-0735-40e2-bcd8-62763a862c37)
+
 
 ## VÍDEO DO PROJETO SENDO TESTADO
