@@ -7,6 +7,7 @@ Barbara Naomi Morimoto Hatano - 13678755, Eric Costa Lopes - 17070779, Giovanna 
 ## LISTA DE COMPONENTES:
 | Componente      |     Especificação       | Preço
 | -------------   |:-------------:          | -----:|
+|ARDUINO        |UNO R3           | 1 x 108,00 |
 |PROTOBOARD        |BB-01 400P            | 1 x 21,70 |
 |LED       | 5MM AMARELO          | 1 x 0,50 |
 | LED        | 5MM VERMELHO            |  2 x 0,50 |
@@ -14,7 +15,7 @@ Barbara Naomi Morimoto Hatano - 13678755, Eric Costa Lopes - 17070779, Giovanna 
 | RESISTOR CR25  | 220R               | 10 x 0,07 |
 | BUZZER| 12A, 7V          |  1 X 9,70 |
 | CHAVE TÁTIL  |  6x6x4,3MM          |  4 x 1,00|
-| TOTAL  |             |  R$38,10 |
+| TOTAL  |             |  R$146,10 |
 
 ## PROJETO ESQUEMÁTICO (TINKERCAD)
 ![Captura de tela 2025-06-29 201149](https://github.com/user-attachments/assets/0216b870-fd64-4467-83c1-e06dbca86b71)
